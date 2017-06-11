@@ -1,0 +1,23 @@
+array0.txt (50 elements)
+Result: 600
+
+array1.txt (100 elements)
+Result: 2260
+
+array2.txt (200 elements)
+Result: 9262
+
+array3.txt (500 elements)
+Result: 63828
+
+array4.txt (1000 elements)
+Result: 237035
+
+array5.txt (2000 elements)
+Result: 994908
+
+array6.txt (5000 elements)
+Result: 6207011
+
+array7.txt (10000 elements)
+Result: 25062677
